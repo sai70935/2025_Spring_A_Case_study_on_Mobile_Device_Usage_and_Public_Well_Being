@@ -18,6 +18,9 @@ Each group/student will work on a unique case study and submit their work under 
    - Your name/group name
    - Case study title
    - Links to your code, slides, and report
+5. **Post in Regis MSDS LinkedIn Group**
+   - Write post and post on the following LinkedIn group and share the details in the course shell.
+   - [MSDS LinkedIn Group](https://www.linkedin.com/groups/12682252/)
 
 ---
 
