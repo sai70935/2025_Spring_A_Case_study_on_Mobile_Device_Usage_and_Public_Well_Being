@@ -9,10 +9,12 @@ Each group/student will work on a unique case study and submit their work under 
 ## ✅ Submission Instructions
 
 1. **Create a folder** using the following format:
+
    [Year]_[Semester]_[Short_Title]
+   
 ✅ *Examples:*
 - `2025_Spring_AI_Hiring_Bias`
-- `2025_Spring_Customer_Churn`
+- `2026_Fall_Customer_Churn`
   
 2. **Inside your folder**, create the following three subfolders:
    - `code/` – for Jupyter notebooks or Python scripts (`.ipynb`, `.py`)
