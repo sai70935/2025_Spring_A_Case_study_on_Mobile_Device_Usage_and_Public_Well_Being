@@ -8,19 +8,35 @@ Each group/student will work on a unique case study and submit their work under 
 
 ## ✅ Submission Instructions
 
-1. **Create a folder** using your full name or group name.
-2. **Inside your folder**, create three subfolders: `code`, `presentation`, and `report`.
-3. Upload your work to the appropriate folders:
-   - `.ipynb` or `.py` files in `code/`
-   - `.pdf` or `.pptx` files in `presentation/`
-   - Final written report as a `.pdf` in `report/`
+1. **Create a folder** using the following format:
+   [Year]_[Semester]_[Short_Title]
+✅ *Examples:*
+- `2025_Spring_AI_Hiring_Bias`
+- `2025_Spring_Customer_Churn`
+  
+2. **Inside your folder**, create the following three subfolders:
+   - `code/` – for Jupyter notebooks or Python scripts (`.ipynb`, `.py`)
+   - `presentation/` – for your presentation file (`.pdf`, `.pptx`)
+   - `report/` – for your final written report (`.pdf`)
+
+**📁 Example Directory Structure**:
+```plaintext
+/2025_Spring_AI_Hiring_Bias
+├── code/
+├── presentation/
+└── report/
+```
+
+3. Upload your work to the appropriate folders.
 4. **Update the table below** with:
-   - Your name/group name
-   - Case study title
-   - Links to your code, slides, and report
-5. **Post in Regis MSDS LinkedIn Group**
-   - Write post and post on the following LinkedIn group and share the details in the course shell.
-   - [MSDS LinkedIn Group](https://www.linkedin.com/groups/12682252/)
+- Your name or group name
+- Case study title
+- Links to your code, presentation, and report
+
+5. **Post in the Regis MSDS LinkedIn Group**:
+- Write a brief summary of your case study and share it on the following LinkedIn group:  
+  👉 [MSDS LinkedIn Group](https://www.linkedin.com/groups/12682252/)
+- Share the LinkedIn post link in the course shell (assignment submission area).
 
 ---
 
