@@ -1,8 +1,8 @@
-# MSDS640 Course - Student Case Studies
+# MSDS640 - Case Studies
 
 This repository serves as a centralized hub for all student projects, including their code, presentations, and final reports.
 
-Each group/student will work on a unique case study and submit their work under the respective sections below. 
+Each group or student will work on a unique case study and submit their work under the corresponding sections below. 
 
 ---
 
@@ -36,7 +36,7 @@ Each group/student will work on a unique case study and submit their work under 
 - Links to your code, presentation, and report
 
 5. **Post in the Regis MSDS LinkedIn Group**:
-- Write a brief summary of your case study and share it on the following LinkedIn group:  
+- Write summary of your case study and share it on the following LinkedIn group:  
   👉 [MSDS LinkedIn Group](https://www.linkedin.com/groups/12682252/)
 - Share the LinkedIn post link in the course shell (assignment submission area).
 
