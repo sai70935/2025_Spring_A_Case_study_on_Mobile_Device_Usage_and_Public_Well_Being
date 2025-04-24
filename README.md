@@ -48,6 +48,8 @@ Each group or student will work on a unique case study and submit their work und
 |--------------|------------------|------|--------------|--------|
 | ABC          | Hello World!     | [Code](link-to-code) | [Slides](link-to-presentation) | [Report](link-to-report) |
 | CDE          | Hello Regis      | [Code](link-to-code) | [Slides](link-to-presentation) | [Report](link-to-report) |
+| Sai          | Hello Sai      | [Code](link-to-code) | [Slides](link-to-presentation) | [Report](link-to-report) |
+
 
 > Please update the table with your relevant information.
 
