@@ -47,8 +47,6 @@ Each group or student will work on a unique case study and submit their work und
 | Student Name | Case Study Title | Code | Presentation | Report |
 |--------------|------------------|------|--------------|--------|
 | ABC          | Hello World!     | [Code](link-to-code) | [Slides](link-to-presentation) | [Report](link-to-report) |
-| CDE          | Hello Regis      | [Code](link-to-code) | [Slides](link-to-presentation) | [Report](link-to-report) |
-| Sai          | Hello Sai      | [Code](link-to-code) | [Slides](link-to-presentation) | [Report](link-to-report) |
 | Chandon Hamel| Analysis of Bias in AI Facial Beauty Regressors | [Code](2025_Spring_AI_Beauty_Bias/code) | [Slides](2025_Spring_AI_Beauty_Bias/presentation/final_presentation_hamel.pdf) | [Report](2025_Spring_AI_Beauty_Bias/report/BeautyBias_Hamel.pdf) |
 
 
