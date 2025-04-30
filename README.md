@@ -48,6 +48,10 @@ Each group or student will work on a unique case study and submit their work und
 |--------------|------------------|------|--------------|--------|
 | ABC          | Hello World!     | [Code](link-to-code) | [Slides](link-to-presentation) | [Report](link-to-report) |
 | Chandon Hamel| Analysis of Bias in AI Facial Beauty Regressors | [Code](2025_Spring_AI_Beauty_Bias/code) | [Slides](2025_Spring_AI_Beauty_Bias/presentation/final_presentation_hamel.pdf) | [Report](2025_Spring_AI_Beauty_Bias/report/BeautyBias_Hamel.pdf) |
+| Ilse Severance| Social Media Impact on Young Female Mental Health | [Code]() | [Slides]() | [Report]() |
+| Rafael Fernandes| Social Media Impact on Young Female Mental Health | [Code]() | [Slides]() | [Report]() |
+| Vasantha Perugu| Social Media Impact on Young Female Mental Health | [Code]() | [Slides]() | [Report]() |
+
 
 
 > Please update the table with your relevant information.
