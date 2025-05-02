@@ -11,6 +11,7 @@ Each group or student will work on a unique case study and submit their work und
 1. **Create a folder** using the following format:
 
    `[Year]_[Semester]_[Short_Title]`
+   Write the report using [**APA LaTeX Template**](https://github.com/iamgmujtaba/LaTeX-APA_Template)
    
 ✅ *Examples:*
 - `2025_Spring_AI_Hiring_Bias`
