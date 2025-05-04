@@ -57,7 +57,6 @@ Each group or student will work on a unique case study and submit their work und
 | Konanki Nagarjuna| A Case study On Mobile Device Usage And Public Well Being | [Code](https://github.com/sai70935/2025_Spring_A_Case_study_on_Mobile_Device_Usage_and_Public_Well_Being/blob/main/code.ipynb) | [Slides](https://github.com/sai70935/2025_Spring_A_Case_study_on_Mobile_Device_Usage_and_Public_Well_Being/blob/main/Presentation.pptx) | [Report](https://github.com/sai70935/2025_Spring_A_Case_study_on_Mobile_Device_Usage_and_Public_Well_Being/blob/main/report.pdf) |
 | Singu Nikitha Reddy| A Case study On Mobile Device Usage And Public Well Being | [Code](https://github.com/sai70935/2025_Spring_A_Case_study_on_Mobile_Device_Usage_and_Public_Well_Being/blob/main/code.ipynb) | [Slides](https://github.com/sai70935/2025_Spring_A_Case_study_on_Mobile_Device_Usage_and_Public_Well_Being/blob/main/Presentation.pptx) | [Report](https://github.com/sai70935/2025_Spring_A_Case_study_on_Mobile_Device_Usage_and_Public_Well_Being/blob/main/report.pdf) |
 
-
 > Please update the table with the relevant information.
 
 ---
